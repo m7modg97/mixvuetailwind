@@ -25,13 +25,13 @@ Run The Following in Your Terminal To Verify That You Have NPM and Node:
 
 # Running Mix 
 
-Run All Mix tasks :
+- Run All Mix tasks :
 > npm run dev 
 
-Run All Mix Tasks and minify output : 
+- Run All Mix Tasks and minify output : 
 > npm run production 
 
-Watching The Changes (Webpack will continue running in your terminal and automatically recompile assets when it detects a changes) : 
+- Watching The Changes (Webpack will continue running in your terminal and automatically recompile assets when it detects a changes) : 
 > npm run watch 
 
 And You can use other commands to run Mix > "development", "watch-poll", "hot", "prod".
